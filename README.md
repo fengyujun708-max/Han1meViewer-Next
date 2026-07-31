@@ -1,5 +1,7 @@
 # Han1meViewer-Next
 Han1meViewer-2.0
+✦ Han1meViewer Next ✦
+
 <p align="center">
   <img src="icon/icon.png" alt="Han1meViewer Next Logo" width="128">
 </p>
@@ -13,6 +15,7 @@ Han1meViewer-2.0
   <a href="#"><img src="https://img.shields.io/badge/Android-7.0+-brightgreen?style=flat-square&logo=android" alt="Android"></a>
   <a href="#"><img src="https://img.shields.io/badge/下载-APK-orange?style=flat-square&logo=apk" alt="下载"></a>
   <a href="#"><img src="https://img.shields.io/badge/UI-玻璃态-00BFFF?style=flat-square" alt="UI"></a>
+  <a href="#"><img src="https://img.shields.io/badge/基于-原版二次开发-blueviolet?style=flat-square" alt="基于"></a>
 </p>
 
 ---
@@ -27,9 +30,36 @@ Han1meViewer-2.0
 
 📖 关于 Han1meViewer Next
 
-Han1meViewer Next 不只是一款视频播放器，更是一个集观影、交流、分享于一体的综合性社区平台。我们在经典开源项目的基础上，从零重绘 UI，深度整合社区生态，为你带来前所未有的沉浸式体验。
+Han1meViewer Next 不只是一款视频播放器，更是一个集观影、交流、分享于一体的综合性社区平台。
+
+本项目基于 YenalyLiew/Han1meViewer 进行二次开发，在原版的基础上：
+
+· 🎨 UI 全面重绘 — 从 Material 3 升级为玻璃态（Glassmorphism）设计语言
+· ⚙️ 技术栈重构 — 从 XML + MVVM 迁移至 Jetpack Compose 纯声明式 UI
+· 💬 社区生态构建 — 从纯工具蜕变为完整社区平台
+· 🌍 国际化全面升级 — 覆盖中、英、日等多语种
+· 🔒 隐私与健康 — 新增应用锁、无痕模式、健康打卡等贴心功能
+
+---
+
+🔄 与原版的核心区别
+
+维度 原版 Han1meViewer Han1meViewer Next（二次开发）
+项目状态 ⚠️ 已弃用，不再维护 ✅ 活跃开发中，持续迭代
+UI 框架 XML 布局 + Material 3 Jetpack Compose 全面重构
+视觉风格 Material 3 标准风格 玻璃态（Glassmorphism） 毛玻璃质感、光影通透
+播放内核 Jiaozi 播放器 Media3 ExoPlayer，更稳定高效
+社区功能 ❌ 无 ✅ 动态广场 · 评论区 · 私信 · 好友关注 · 排行榜 · 话题标签
+用户体系 基础登录 收藏夹 · 稍后观看 · 成就勋章 · 周常试炼
+隐私安全 基础 应用锁 · 无痕模式 增强保护
+健康管理 ❌ 无 ✅ 使用统计 · 打卡提醒
+公告系统 ❌ 无 ✅ 实时推送 · 版本更新通知
+
+---
 
 🎨 设计语言
+
+原版是工具。Next 是艺术品。
 
 · 玻璃态（Glassmorphism） — 毛玻璃背景、模糊层次、光影通透，每个界面都如艺术品
 · 动态微交互 — 按钮按压、页面切换、列表滚动，处处有细腻动效，反馈丝滑
@@ -49,7 +79,7 @@ Han1meViewer Next 不只是一款视频播放器，更是一个集观影、交�
 画中画 悬浮窗口播放，刷社区、聊弹幕两不误
 观看历史 自动记录进度，跨设备无缝续播
 
-💬 社区互动（亮点）
+💬 社区互动（✨ 二次开发最大亮点）
 
 功能 说明
 动态广场 用户发布图文动态，分享观影心得、推荐好片
@@ -129,10 +159,10 @@ readme_04.png readme_05.png readme_06.png
 
 📜 使用条款
 
-1. 本应用仅供个人娱乐，严禁用于任何商业目的。
-2. 禁止逆向工程、反编译或篡改应用包。
-3. 所有视频内容版权归原始权利人所有，本应用不承担任何内容审核责任。
-4. 开发者保留随时更新、暂停或终止服务的权利。
+1. 本应用仅供个人娱乐，严禁用于任何商业目的
+2. 禁止逆向工程、反编译或篡改应用包
+3. 所有视频内容版权归原始权利人所有，本应用不承担任何内容审核责任
+4. 开发者保留随时更新、暂停或终止服务的权利
 
 ---
 
