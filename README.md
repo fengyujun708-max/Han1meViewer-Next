@@ -144,11 +144,8 @@ Han1meViewer Next 不只是一款视频播放器，更是一个**集观影、交
 
 | 首页（玻璃态） | 视频详情 | 社区动态 |
 |:---:|:---:|:---:|
-| ![首页](readme_01.png) | ![详情](readme_02.png) | ![动态](readme_03.png) |
+| ![首页](https://github.com/fengyujun708-max/Han1meViewer-Next/blob/1b2a0139e8bd819117513c0e008604d81d617fbe/Screenshot_20260801_223851.jpg) | ![详情](https://github.com/fengyujun708-max/Han1meViewer-Next/blob/1b2a0139e8bd819117513c0e008604d81d617fbe/Screenshot_20260801_223858.jpg) | ![社区](https://github.com/fengyujun708-max/Han1meViewer-Next/blob/1b2a0139e8bd819117513c0e008604d81d617fbe/Screenshot_20260801_223902.jpg) |
 
-| 播放器 | 搜索 | 个人中心 |
-|:---:|:---:|:---:|
-| ![播放](readme_04.png) | ![搜索](readme_05.png) | ![我的](readme_06.png) |
 
 > 截图可能随版本更新有所调整，请以实际应用为准。
 
